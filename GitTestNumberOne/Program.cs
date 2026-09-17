@@ -5,7 +5,11 @@
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Username");
+            string name = "Ed";
+
+            Console.WriteLine("Password");
+            string password = "password123";
 
         }
     }
