@@ -11,6 +11,8 @@
             Console.WriteLine("Password");
             string password = "password123";
 
+            Console.WriteLine("You are logged in!");
+
         }
     }
 }
